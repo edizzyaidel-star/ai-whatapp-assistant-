@@ -1,0 +1,16 @@
+
+{
+  "name": "ai-whatsapp-assistant",
+  "version": "1.0.0",
+  "description": "AI-powered WhatsApp assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^4.77.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
